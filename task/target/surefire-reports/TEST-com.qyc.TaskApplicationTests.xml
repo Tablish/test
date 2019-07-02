@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.qyc.TaskApplicationTests" time="0.001" tests="1" errors="1" skipped="0" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_31\jre\bin"/>
+    <property name="java.vm.version" value="25.31-b07"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\myCode\my-web_3"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\myCode\my-web_3"/>
+    <property name="java.runtime.version" value="1.8.0_31-b13"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_31\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\Chenfer\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 8.1"/>
+    <property name="classworlds.conf" value="D:\Doawload\apache-maven-3.5.2\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_31\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\program\xshell6\;C:\Ruby26-x64\bin;C:\Program Files\VanDyke Software\Clients\;C:\Program Files (x86)\Android\android-sdk\tools;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_31\bin;C:\Program Files\Java\jdk1.8.0_31\jre\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseGit\bin;C:\Program Files\curl\I386;C:\Program Files\Git\cmd;D:\Doawload\apache-maven-3.5.2\bin;D:\Doawload\apache-tomcat-7.0.76\bin;D:\program\mysql-5.7.21-winx64\bin;C:\Go\bin;C:\WINDOWS\System32\OpenSSH\;D:\program\erl10.1\bin;%RABBITMQ_BAS%\ebin;C:\Program Files\nodejs\;C:\Ruby26-x64\bin;C:\Users\Chenfer\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Android\android-sdk\tools;;D:\program\IntelliJ IDEA 2019.1.1\bin;;C:\Users\Chenfer\AppData\Roaming\npm;."/>
+    <property name="maven.conf" value="D:\Doawload\apache-maven-3.5.2\bin\../conf"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.3"/>
+    <property name="library.jansi.path" value="D:\Doawload\apache-maven-3.5.2\bin\..\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\Chenfer"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="user.name" value="Chenfer"/>
+    <property name="java.class.path" value="D:\Doawload\apache-maven-3.5.2\bin\..\boot\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_31\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher package"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="zh"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_31"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_31\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_31\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_31\jre\classes"/>
+    <property name="sun.stderr.encoding" value="ms936"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\Doawload\apache-maven-3.5.2\bin\.."/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.stdout.encoding" value="ms936"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="initializationError" classname="com.qyc.TaskApplicationTests" time="0.001">
+    <error message="Found multiple @SpringBootConfiguration annotated classes [Generic bean: class [com.qyc.TaskApplication]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [D:\myCode\my-web_3\task\target\classes\com\qyc\TaskApplication.class], Generic bean: class [com.qyc.DataMgtApplication]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in URL [jar:file:/D:/myCode/my-web_3/data-mgt/target/data-mgt-0.0.1-SNAPSHOT.jar!/com/qyc/DataMgtApplication.class]]" type="java.lang.IllegalStateException"><![CDATA[java.lang.IllegalStateException: Found multiple @SpringBootConfiguration annotated classes [Generic bean: class [com.qyc.TaskApplication]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [D:\myCode\my-web_3\task\target\classes\com\qyc\TaskApplication.class], Generic bean: class [com.qyc.DataMgtApplication]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in URL [jar:file:/D:/myCode/my-web_3/data-mgt/target/data-mgt-0.0.1-SNAPSHOT.jar!/com/qyc/DataMgtApplication.class]]
+	at org.springframework.util.Assert.state(Assert.java:392)
+	at org.springframework.boot.test.context.SpringBootConfigurationFinder.scanPackage(SpringBootConfigurationFinder.java:69)
+	at org.springframework.boot.test.context.SpringBootConfigurationFinder.findFromPackage(SpringBootConfigurationFinder.java:59)
+	at org.springframework.boot.test.context.SpringBootConfigurationFinder.findFromClass(SpringBootConfigurationFinder.java:52)
+	at org.springframework.boot.test.context.SpringBootTestContextBootstrapper.getOrFindConfigurationClasses(SpringBootTestContextBootstrapper.java:172)
+	at org.springframework.boot.test.context.SpringBootTestContextBootstrapper.processMergedContextConfiguration(SpringBootTestContextBootstrapper.java:133)
+	at org.springframework.test.context.support.AbstractTestContextBootstrapper.buildMergedContextConfiguration(AbstractTestContextBootstrapper.java:409)
+	at org.springframework.test.context.support.AbstractTestContextBootstrapper.buildDefaultMergedContextConfiguration(AbstractTestContextBootstrapper.java:323)
+	at org.springframework.test.context.support.AbstractTestContextBootstrapper.buildMergedContextConfiguration(AbstractTestContextBootstrapper.java:277)
+	at org.springframework.test.context.support.AbstractTestContextBootstrapper.buildTestContext(AbstractTestContextBootstrapper.java:112)
+	at org.springframework.boot.test.context.SpringBootTestContextBootstrapper.buildTestContext(SpringBootTestContextBootstrapper.java:78)
+	at org.springframework.test.context.TestContextManager.<init>(TestContextManager.java:120)
+	at org.springframework.test.context.TestContextManager.<init>(TestContextManager.java:105)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTestContextManager(SpringJUnit4ClassRunner.java:152)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.<init>(SpringJUnit4ClassRunner.java:143)
+	at org.springframework.test.context.junit4.SpringRunner.<init>(SpringRunner.java:49)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+	at org.junit.internal.builders.AnnotatedBuilder.buildRunner(AnnotatedBuilder.java:104)
+	at org.junit.internal.builders.AnnotatedBuilder.runnerForClass(AnnotatedBuilder.java:86)
+	at org.junit.runners.model.RunnerBuilder.safeRunnerForClass(RunnerBuilder.java:59)
+	at org.junit.internal.builders.AllDefaultPossibilitiesBuilder.runnerForClass(AllDefaultPossibilitiesBuilder.java:26)
+	at org.junit.runners.model.RunnerBuilder.safeRunnerForClass(RunnerBuilder.java:59)
+	at org.junit.internal.requests.ClassRequest.getRunner(ClassRequest.java:33)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:283)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:173)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:153)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:128)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:203)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:155)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+]]></error>
+    <system-out><![CDATA[20:52:22.386 [main] DEBUG org.springframework.test.context.junit4.SpringJUnit4ClassRunner - SpringJUnit4ClassRunner constructor called with [class com.qyc.TaskApplicationTests]
+20:52:22.397 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating CacheAwareContextLoaderDelegate from class [org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate]
+20:52:22.406 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating BootstrapContext using constructor [public org.springframework.test.context.support.DefaultBootstrapContext(java.lang.Class,org.springframework.test.context.CacheAwareContextLoaderDelegate)]
+20:52:22.430 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating TestContextBootstrapper for test class [com.qyc.TaskApplicationTests] from class [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]
+20:52:22.447 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.qyc.TaskApplicationTests], using SpringBootContextLoader
+20:52:22.451 [main] DEBUG org.springframework.test.context.support.AbstractContextLoader - Did not detect default resource location for test class [com.qyc.TaskApplicationTests]: class path resource [com/qyc/TaskApplicationTests-context.xml] does not exist
+20:52:22.452 [main] DEBUG org.springframework.test.context.support.AbstractContextLoader - Did not detect default resource location for test class [com.qyc.TaskApplicationTests]: class path resource [com/qyc/TaskApplicationTestsContext.groovy] does not exist
+20:52:22.452 [main] INFO org.springframework.test.context.support.AbstractContextLoader - Could not detect default resource locations for test class [com.qyc.TaskApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+20:52:22.453 [main] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.qyc.TaskApplicationTests]: TaskApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+20:52:22.591 [main] DEBUG org.springframework.test.context.support.ActiveProfilesUtils - Could not find an 'annotation declaring class' for annotation type [org.springframework.test.context.ActiveProfiles] and class [com.qyc.TaskApplicationTests]
+20:52:22.648 [main] DEBUG org.springframework.core.env.StandardEnvironment - Adding [systemProperties] PropertySource with lowest search precedence
+20:52:22.650 [main] DEBUG org.springframework.core.env.StandardEnvironment - Adding [systemEnvironment] PropertySource with lowest search precedence
+20:52:22.650 [main] DEBUG org.springframework.core.env.StandardEnvironment - Initialized StandardEnvironment with PropertySources [systemProperties,systemEnvironment]
+20:52:22.680 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Resolved classpath location [com/qyc/] to resources [URL [file:/D:/myCode/my-web_3/task/target/test-classes/com/qyc/], URL [file:/D:/myCode/my-web_3/task/target/classes/com/qyc/], URL [jar:file:/D:/myCode/my-web_3/data-mgt/target/data-mgt-0.0.1-SNAPSHOT.jar!/com/qyc/]]
+20:52:22.682 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in directory tree [D:\myCode\my-web_3\task\target\test-classes\com\qyc]
+20:52:22.682 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Searching directory [D:\myCode\my-web_3\task\target\test-classes\com\qyc] for files matching pattern [D:/myCode/my-web_3/task/target/test-classes/com/qyc/*.class]
+20:52:22.686 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in directory tree [D:\myCode\my-web_3\task\target\classes\com\qyc]
+20:52:22.686 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Searching directory [D:\myCode\my-web_3\task\target\classes\com\qyc] for files matching pattern [D:/myCode/my-web_3/task/target/classes/com/qyc/*.class]
+20:52:22.687 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in jar file [file:/D:/myCode/my-web_3/data-mgt/target/data-mgt-0.0.1-SNAPSHOT.jar]
+20:52:22.691 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Resolved location pattern [classpath*:com/qyc/*.class] to resources [file [D:\myCode\my-web_3\task\target\test-classes\com\qyc\TaskApplicationTests.class], file [D:\myCode\my-web_3\task\target\classes\com\qyc\TaskApplication.class], URL [jar:file:/D:/myCode/my-web_3/data-mgt/target/data-mgt-0.0.1-SNAPSHOT.jar!/com/qyc/DataMgtApplication.class]]
+20:52:22.818 [main] DEBUG org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider - Identified candidate component class: file [D:\myCode\my-web_3\task\target\classes\com\qyc\TaskApplication.class]
+20:52:22.821 [main] DEBUG org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider - Identified candidate component class: URL [jar:file:/D:/myCode/my-web_3/data-mgt/target/data-mgt-0.0.1-SNAPSHOT.jar!/com/qyc/DataMgtApplication.class]
+20:52:22.828 [main] DEBUG org.springframework.test.context.junit4.SpringJUnit4ClassRunner - SpringJUnit4ClassRunner constructor called with [class com.qyc.TaskApplicationTests]
+20:52:22.828 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating CacheAwareContextLoaderDelegate from class [org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate]
+20:52:22.828 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating BootstrapContext using constructor [public org.springframework.test.context.support.DefaultBootstrapContext(java.lang.Class,org.springframework.test.context.CacheAwareContextLoaderDelegate)]
+20:52:22.843 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating TestContextBootstrapper for test class [com.qyc.TaskApplicationTests] from class [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]
+20:52:22.845 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.qyc.TaskApplicationTests], using SpringBootContextLoader
+20:52:22.846 [main] DEBUG org.springframework.test.context.support.AbstractContextLoader - Did not detect default resource location for test class [com.qyc.TaskApplicationTests]: class path resource [com/qyc/TaskApplicationTests-context.xml] does not exist
+20:52:22.847 [main] DEBUG org.springframework.test.context.support.AbstractContextLoader - Did not detect default resource location for test class [com.qyc.TaskApplicationTests]: class path resource [com/qyc/TaskApplicationTestsContext.groovy] does not exist
+20:52:22.847 [main] INFO org.springframework.test.context.support.AbstractContextLoader - Could not detect default resource locations for test class [com.qyc.TaskApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+20:52:22.847 [main] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.qyc.TaskApplicationTests]: TaskApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+20:52:22.864 [main] DEBUG org.springframework.test.context.support.ActiveProfilesUtils - Could not find an 'annotation declaring class' for annotation type [org.springframework.test.context.ActiveProfiles] and class [com.qyc.TaskApplicationTests]
+20:52:22.866 [main] DEBUG org.springframework.core.env.StandardEnvironment - Adding [systemProperties] PropertySource with lowest search precedence
+20:52:22.867 [main] DEBUG org.springframework.core.env.StandardEnvironment - Adding [systemEnvironment] PropertySource with lowest search precedence
+20:52:22.868 [main] DEBUG org.springframework.core.env.StandardEnvironment - Initialized StandardEnvironment with PropertySources [systemProperties,systemEnvironment]
+20:52:22.869 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Resolved classpath location [com/qyc/] to resources [URL [file:/D:/myCode/my-web_3/task/target/test-classes/com/qyc/], URL [file:/D:/myCode/my-web_3/task/target/classes/com/qyc/], URL [jar:file:/D:/myCode/my-web_3/data-mgt/target/data-mgt-0.0.1-SNAPSHOT.jar!/com/qyc/]]
+20:52:22.870 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in directory tree [D:\myCode\my-web_3\task\target\test-classes\com\qyc]
+20:52:22.870 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Searching directory [D:\myCode\my-web_3\task\target\test-classes\com\qyc] for files matching pattern [D:/myCode/my-web_3/task/target/test-classes/com/qyc/*.class]
+20:52:22.870 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in directory tree [D:\myCode\my-web_3\task\target\classes\com\qyc]
+20:52:22.871 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Searching directory [D:\myCode\my-web_3\task\target\classes\com\qyc] for files matching pattern [D:/myCode/my-web_3/task/target/classes/com/qyc/*.class]
+20:52:22.872 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in jar file [file:/D:/myCode/my-web_3/data-mgt/target/data-mgt-0.0.1-SNAPSHOT.jar]
+20:52:22.884 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Resolved location pattern [classpath*:com/qyc/*.class] to resources [file [D:\myCode\my-web_3\task\target\test-classes\com\qyc\TaskApplicationTests.class], file [D:\myCode\my-web_3\task\target\classes\com\qyc\TaskApplication.class], URL [jar:file:/D:/myCode/my-web_3/data-mgt/target/data-mgt-0.0.1-SNAPSHOT.jar!/com/qyc/DataMgtApplication.class]]
+20:52:22.886 [main] DEBUG org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider - Identified candidate component class: file [D:\myCode\my-web_3\task\target\classes\com\qyc\TaskApplication.class]
+20:52:22.887 [main] DEBUG org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider - Identified candidate component class: URL [jar:file:/D:/myCode/my-web_3/data-mgt/target/data-mgt-0.0.1-SNAPSHOT.jar!/com/qyc/DataMgtApplication.class]
+]]></system-out>
+  </testcase>
+</testsuite>

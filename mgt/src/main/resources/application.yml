@@ -1,0 +1,10 @@
+#端口
+server:
+  port: 8189
+
+#日志
+logging:
+  pattern:
+    console: "%d - %msg%n"
+  path: /var/log/tomcat/
+  file: /val/log/tomcat/sell
