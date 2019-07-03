@@ -59,13 +59,13 @@ public class AopConfig {
 //    }
 
     /*@AfterReturning注解用于获取方法的返回值*/
-    @AfterReturning(pointcut = "print()", returning = "object")
-    public void getAfterReturn(Object object) {
-        System.out.println("-------------------------");
-        System.out.println("AfterReturning..");
-        System.out.println("本次接口耗时 " + endTime);
-        //System.out.println("afterReturning={}" + object.toString());
-    }
+//    @AfterReturning(pointcut = "print()", returning = "object")
+//    public void getAfterReturn(Object object) {
+//        System.out.println("-------------------------");
+//        System.out.println("AfterReturning..");
+//        System.out.println("本次接口耗时 " + endTime);
+//        //System.out.println("afterReturning={}" + object.toString());
+//    }
 
 
     @Around("print()")
