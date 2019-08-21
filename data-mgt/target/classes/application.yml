@@ -14,3 +14,9 @@ spring:
 mybatis:
   mapper-locations: classpath:mybatis/mapper/dc/*.xml
   type-aliases-package: com.qyc.model
+
+# component
+#com.qyc.name：qianyongchao
+#com.qyc.age：24
+
+

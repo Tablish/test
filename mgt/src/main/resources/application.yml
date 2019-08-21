@@ -6,5 +6,5 @@ server:
 logging:
   pattern:
     console: "%d - %msg%n"
-  path: /var/log/tomcat/
-  file: /val/log/tomcat/sell
+  path: /usr/local/log
+  level: debug
